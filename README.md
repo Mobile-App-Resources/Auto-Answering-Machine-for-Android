@@ -1,0 +1,2 @@
+# Auto-Answering-Machine-for-Android
+This app is basically an answering machine for android which answers calls if not picked up after 15 sec and also records what the caller says and automatically disconnects the call in 30 sec.The user receives a notification on the recieved voicemail message along with the name of the caller and can view the list of unplayed and played messages.Also the user can add a few numbers to the block list which are always automatically answered.The service can be turned on and off as and when desired
